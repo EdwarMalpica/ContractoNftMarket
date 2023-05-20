@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "rarity",
+      "value" : "common"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Black"
+    } ],
+    "description" : "The world's most adorable and sensitive pup.",
+    "imageURI" : "https://gateway.pinata.cloud/ipfs/QmNZrSMeKzqGhpoPVquH8npxTAeD1GmmdRdc8fn2f8whRL/19.png",
+    "name" : "Dino Nerd"
+}
